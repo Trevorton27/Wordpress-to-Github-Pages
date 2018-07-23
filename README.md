@@ -10,3 +10,5 @@ Step 4: Vistit this URL and follow the steps to proceed with launching your wp b
 NOTE: While all relevant steps are thoroughly outlined in the article linked above, it is written specifically with Mac users in mind. However, it should present no difficulty as far as the actual steps to be followed. They are "OS independent", if you will.
 
 So, if you are a Windows type of gal/guy, please do ignore all the unsightly Mac OS screenshots and focus on the actual text content instead. The info is GOLD, I tell you. Simply gold. :-)
+
+ANOTHER NOTE: It is recommended you stick with one of Wordpress's default themes if you do intend to host the final result on Github Pages. The reason is the "Simply Static" plugin does  not play nice with more responsive themes available for Wordpress and your final result in terms of browser display will likely be disappointing. Keep it simple and use as much HTML coding as possible to ensure maxiumum retention of your graphics and other content.
